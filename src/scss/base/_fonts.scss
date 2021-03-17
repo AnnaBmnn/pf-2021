@@ -3,9 +3,19 @@
 */
 
 @font-face {
-  font-family: 'DINP-R';
-  src: url("../fonts/DINPro-Regular.eot?") format("eot"),
-  url("../fonts/DINPro-Regular.woff") format("woff"),
-  url("../fonts/DINPro-Regular.ttf") format("truetype");
+  font-family: 'Migra';
+  src: url("../fonts/Migra/Migra-Extralight.eot?") format("eot"),
+  url("../fonts/Migra/Migra-Extralight.woff") format("woff"),
+  url("../fonts/Migra/Migra-Extralight.woff2") format("woff2"),
+  url("../fonts/Migra/Migra-Extralight.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Okomito';
+  src: url("../fonts/Okomito/Okomito-Regular.eot?") format("eot"),
+  url("../fonts/Okomito/Okomito-Regular.woff") format("woff"),
+  url("../fonts/Okomito/Okomito-Regular.woff2") format("woff2"),
+  url("../fonts/Okomito/Okomito-Regular.ttf") format("truetype");
   font-style: normal;
 }
