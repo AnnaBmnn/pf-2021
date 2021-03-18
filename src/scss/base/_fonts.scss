@@ -19,3 +19,12 @@
   url("../fonts/Okomito/Okomito-Regular.ttf") format("truetype");
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Times New Roman';
+  src: url("../fonts/TimesNewRoman/TimesNewRomanItalic.eot?") format("eot"),
+  url("../fonts/TimesNewRoman/TimesNewRomanItalic.woff") format("woff"),
+  url("../fonts/TimesNewRoman/TimesNewRomanItalic.woff2") format("woff2"),
+  url("../fonts/TimesNewRoman/TimesNewRomanItalic.ttf") format("truetype");
+  font-style: italic;
+}
